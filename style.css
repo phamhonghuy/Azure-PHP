@@ -1,0 +1,28 @@
+.content {
+    margin:auto;
+    border: 4px double black;
+    width: 800px;
+}
+h1 { 
+    text-align: center;
+    color: red;
+
+}
+.question{
+    margin: 0 0 0 20px;
+}
+.question ul {
+    margin: 0 0 0 20px;
+    list-style-type: none;
+}
+.question ul li {
+   margin: 5px 0 0 0;
+}
+span {
+    font-weight:bold;
+}
+#submit {
+    margin: 20px 0 20px 380px;
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+}
