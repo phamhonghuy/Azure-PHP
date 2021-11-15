@@ -2,4 +2,3 @@
 <?php
 
 echo "Hello World!";
-?>
